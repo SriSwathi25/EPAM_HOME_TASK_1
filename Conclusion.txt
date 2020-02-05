@@ -1,0 +1,11 @@
+In accordance with given task, i have installed git on my local machine. 
+I used git to create a repository, 
+add files to the repository, 
+create branches, 
+add files, 
+commit changes, 
+merge branches, 
+pull reuests and push changes.
+Thank you.
+
+
